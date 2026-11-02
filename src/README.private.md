@@ -1,12 +1,12 @@
-# Hasini Pinsara Portfolio - Private Maintainer Notes
+# Hasini Kulatunga Portfolio - Private Maintainer Notes
 
 This is a maintenance document that can be committed to Git. The private filename does not restrict access. It is not imported by the application or copied into the production build. This is not encryption or access control: anyone with filesystem access can read it. Do not store passwords, API keys, or tokens here. Vite development servers can expose source files, so do not expose the development server publicly.
 
 ## Purpose and profile
 
-A professional single-page portfolio for Hasini Pinsara, a Data Science undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), Sri Lanka. The portfolio presents skills, academic projects, education, and banking experience to support AI/ML, Data Science, and Data Analytics internship applications.
+A professional single-page portfolio for Hasini Kulatunga, a Data Science undergraduate at the Sri Lanka Institute of Information Technology (SLIIT), Sri Lanka. The portfolio presents skills, academic projects, education, and banking experience to support AI/ML, Data Science, and Data Analytics internship applications.
 
-- Public name: Hasini Pinsara
+- Public name: Hasini Kulatunga
 - LinkedIn profile name: Hasini Kulatunga
 - Email: hasinipkulatunga@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hasini-kulatunga-88717a439/
@@ -21,7 +21,7 @@ Navigation anchors: #home, #about, #education, #projects, #experience, #contact.
 
 ### Hero
 
-Eyebrow: HASINI PINSARA / DATA SCIENCE UNDERGRADUATE.
+Eyebrow: HASINI KULATUNGA / DATA SCIENCE UNDERGRADUATE.
 
 Heading, kept on two lines:
 
@@ -34,7 +34,7 @@ The compact Explore my work button links to #projects and has a down-right arrow
 
 ### About
 
-Heading: Hasini Pinsara.
+Heading: Hasini Kulatunga.
 Role: Data Science Undergraduate / SLIIT.
 
 Summary: I turn data into practical insights and intelligent solutions using Python, machine learning, and analytics. Seeking an AI/ML, Data Science, or Data Analytics internship to apply my skills to real-world problems.

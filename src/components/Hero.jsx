@@ -19,7 +19,7 @@ export default function Hero({active}) {
     onPointerDown={event=>{if(event.pointerType==='touch'&&!event.target.closest('a')){move(event);setTouchReveal(value=>!value);}}}
   >
     <img className="hero-image vr-image" src={withDigital} width="1672" height="941" decoding="async" alt="" aria-hidden="true"/>
-    <img className="hero-image normal-image" src={withoutDigital} width="1672" height="941" fetchPriority="high" decoding="async" alt="Hasini Pinsara, Data Science undergraduate at SLIIT"/>
+    <img className="hero-image normal-image" src={withoutDigital} width="1672" height="941" fetchPriority="high" decoding="async" alt="Hasini Kulatunga, Data Science undergraduate at SLIIT"/>
     <div className="image-grade" aria-hidden="true"/>
     <HeroContent/>
   </main>;

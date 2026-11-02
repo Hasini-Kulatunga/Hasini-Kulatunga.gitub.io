@@ -32,7 +32,7 @@ export default function Navbar({ visible }) {
   }, [menuOpen]);
 
   return <header ref={headerRef} className={`apple-glass-nav ${visible ? 'visible' : ''} ${scrolled ? 'compact' : ''} ${menuOpen ? 'menu-open' : ''}`}>
-    <a className="hero-brand" href="#home"><strong>Hasini Pinsara</strong><span>Data Science Undergraduate</span></a>
+    <a className="hero-brand" href="#home"><strong>Hasini Kulatunga</strong><span>Data Science Undergraduate</span></a>
     <button className="mobile-menu-toggle" type="button" aria-expanded={menuOpen} aria-controls="primary-navigation" aria-label={menuOpen ? 'Close navigation menu' : 'Open navigation menu'} onClick={() => setMenuOpen(open => !open)}>
       <span/><span/><span/>
     </button>

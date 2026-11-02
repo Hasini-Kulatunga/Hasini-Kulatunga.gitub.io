@@ -68,7 +68,7 @@ export default function Contact(){
     <footer className="site-footer" data-contact-reveal>
       <div className="footer-main">
         <a className="footer-brand" href="#home">
-          <strong>Hasini Pinsara</strong>
+          <strong>Hasini Kulatunga</strong>
           <span>Data Science Undergraduate · SLIIT</span>
           <p>Solving real-world problems with AI and data-driven approaches.</p>
         </a>
@@ -88,7 +88,7 @@ export default function Contact(){
         <a className="back-to-top" href="#home"><span>↑</span><small>BACK TO TOP</small></a>
       </div>
       <div className="footer-bottom">
-        <span>© {currentYear} Hasini Pinsara. All rights reserved.</span>
+        <span>© {currentYear} Hasini Kulatunga. All rights reserved.</span>
         <span>Sri Lanka · GMT +5:30</span>
       </div>
     </footer>

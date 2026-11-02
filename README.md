@@ -1,6 +1,6 @@
-# Hasini Pinsara - Data Science Portfolio
+# Hasini Kulatunga - Data Science Portfolio
 
-A responsive React portfolio for Hasini Pinsara, a Data Science undergraduate at SLIIT in Sri Lanka, seeking AI/ML, Data Science, and Data Analytics internships.
+A responsive React portfolio for Hasini Kulatunga, a Data Science undergraduate at SLIIT in Sri Lanka, seeking AI/ML, Data Science, and Data Analytics internships.
 
 ## Features
 
