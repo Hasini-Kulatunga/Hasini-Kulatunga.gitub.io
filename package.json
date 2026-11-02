@@ -1,0 +1,22 @@
+{
+  "name": "hasini-portfolio",
+  "private": true,
+  "version": "5.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --open",
+    "build": "node scripts/build.mjs",
+    "preview": "vite preview",
+    "version:sync": "node version.js",
+    "version:check": "node version.js --check",
+    "release": "node version.js --release"
+  },
+  "dependencies": {
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest"
+  }
+}
