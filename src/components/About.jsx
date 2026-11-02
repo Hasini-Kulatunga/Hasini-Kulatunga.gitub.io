@@ -35,7 +35,7 @@ export default function About(){
     <NetworkBackdrop/>
     <header className="about-intro" data-reveal>
       <span>01 / ABOUT ME</span>
-      <h2 id="about-title">Hasini <em>Pinsara.</em></h2>
+      <h2 id="about-title">Hasini <em>Kulatunga.</em></h2>
       <p className="about-role">Data Science Undergraduate <i/> SLIIT</p>
       <p className="about-summary">I turn data into <strong>practical insights</strong> and <strong>intelligent solutions</strong> using Python, machine learning, and analytics. Seeking an <strong>AI/ML, Data Science, or Data Analytics internship</strong> to apply my skills to real-world problems.</p>
     </header>
